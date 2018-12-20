@@ -1,0 +1,30 @@
+text editor =  a program used to write programs 
+terminal = serves as a command line interface to type in commands. Shell takes commands and the operating system executes them.
+IDE = Integrated Development Environment
+
+
+Python
+print():	function that prints to the screen
+#:	Octothorpe is used for commenting
+variables:	just a name that particularly describes what it is storing
+
+Math and Numbers
++ plus
+- minus
+/ slash
+* asterisk
+% (modulus) percent
+< less-than
+> greater-than
+<= less-than-equal
+>= greater-than-equal
+
+Floating Point Numbers:	numbers with decimals
+
+PEMDAS: Operations are done using this method PE(M&D)(A&S)
+
+Errors
+SyntaxError:	error message to what could be the error
+
+
+
